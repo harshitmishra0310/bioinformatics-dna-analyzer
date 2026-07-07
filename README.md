@@ -6,6 +6,26 @@ This project was developed as part of my journey into **Bioinformatics** and **C
 
 ---
 
+## 📸 Program Preview
+
+### ✅ Valid DNA Sequence
+
+![Valid Output](images/Output.png)
+
+---
+
+### ❌ Invalid DNA Sequence
+
+![Invalid Output](images/Invalid.png)
+
+---
+
+### ⚠️ Empty Input
+
+![Empty Input](images/Empty.png)
+
+---
+
 ## Features
 
 - ✅ DNA sequence validation
